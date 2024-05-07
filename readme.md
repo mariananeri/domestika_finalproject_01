@@ -1,5 +1,5 @@
 # My project for course: HTML, CSS and JavaScript for Beginners
-https://domestika-final-project.netlify.app
+https://mariananeri.github.io/domestika_finalproject_01/
 
 
 ## HTML, CSS and JavaScript for Beginners
